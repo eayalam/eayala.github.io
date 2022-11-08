@@ -2,7 +2,7 @@
   "name": "bettybella",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://eayalam.github.io/betty",
+  "homepage": "https://eayalam.github.io/betty",
   "dependencies": {
     "@cenk1cenk2-presentations/react-reveal-base": "^1.0.1",
     "@testing-library/jest-dom": "^5.11.4",
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^4.0.0"
   }
 }
