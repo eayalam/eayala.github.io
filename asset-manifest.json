@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/betty/static/css/main.78fb4fde.chunk.css",
+    "main.js": "/betty/static/js/main.aa884896.chunk.js",
+    "main.js.map": "/betty/static/js/main.aa884896.chunk.js.map",
+    "runtime-main.js": "/betty/static/js/runtime-main.5f76d2c0.js",
+    "runtime-main.js.map": "/betty/static/js/runtime-main.5f76d2c0.js.map",
+    "static/css/2.4f8d7c7e.chunk.css": "/betty/static/css/2.4f8d7c7e.chunk.css",
+    "static/js/2.e208e4d8.chunk.js": "/betty/static/js/2.e208e4d8.chunk.js",
+    "static/js/2.e208e4d8.chunk.js.map": "/betty/static/js/2.e208e4d8.chunk.js.map",
+    "index.html": "/betty/index.html",
+    "static/css/2.4f8d7c7e.chunk.css.map": "/betty/static/css/2.4f8d7c7e.chunk.css.map",
+    "static/css/main.78fb4fde.chunk.css.map": "/betty/static/css/main.78fb4fde.chunk.css.map",
+    "static/js/2.e208e4d8.chunk.js.LICENSE.txt": "/betty/static/js/2.e208e4d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f76d2c0.js",
+    "static/css/2.4f8d7c7e.chunk.css",
+    "static/js/2.e208e4d8.chunk.js",
+    "static/css/main.78fb4fde.chunk.css",
+    "static/js/main.aa884896.chunk.js"
+  ]
+}
